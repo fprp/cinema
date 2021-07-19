@@ -1,0 +1,45 @@
+Nome do Filme: Coringa
+Número da Sala:03
+2D ou 3D:2D
+Dia do Filme:12/12/2019
+Hora do Filme:22:30
+Key de Identificação Única:SGBDT
+Sessão Disponibilizada Em:22/11/2019 01:25
+Última Vez Modificada Em:22/11/2019 01:25
+
+Nome do Filme: A bela e a fera
+Número da Sala:00
+2D ou 3D:3D
+Dia do Filme:25/12/2019
+Hora do Filme:13:00
+Key de Identificação Única:6LC52
+Sessão Disponibilizada Em:24/11/2019 19:31
+Última Vez Modificada Em:24/11/2019 19:31
+
+Nome do Filme: Babel
+Número da Sala:13
+2D ou 3D:2D
+Dia do Filme:01/12/2019
+Hora do Filme:15:30
+Key de Identificação Única:IJX6F
+Sessão Disponibilizada Em:24/11/2019 19:32
+Última Vez Modificada Em:24/11/2019 19:32
+
+Nome do Filme: Zatum
+Número da Sala:15
+2D ou 3D:2D
+Dia do Filme:01/12/2019
+Hora do Filme:15:45
+Key de Identificação Única:M2J5N
+Sessão Disponibilizada Em:24/11/2019 19:32
+Última Vez Modificada Em:24/11/2019 19:32
+
+Nome do Filme: Viuva Negra
+Número da Sala:05
+2D ou 3D:2D
+Dia do Filme:19/07/2021
+Hora do Filme:18:15
+Key de Identificação Única:YNMPO
+Sessão Disponibilizada Em:18/07/2021 22:56
+Última Vez Modificada Em:18/07/2021 22:56
+
